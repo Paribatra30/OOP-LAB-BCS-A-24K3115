@@ -1,4 +1,4 @@
-//task no 1 by port botra 24k3114
+//task no 1 by Pari Batra 24k3114
 #include<iostream>
 using namespace std;
 
